@@ -501,4 +501,4 @@ PRODUCT_BOOT_JARS += \
     WfdCommon
 
 # Inherit from oneplus-extras
-$(call inherit-product, device/oneplus/extras/common.mk)
+$(call inherit-product, device/oppo/common/common.mk)
