@@ -4,7 +4,7 @@
     "target_path": "device/oppo/common"
   },
   {
-    "repository": "Krieg-Kernel/OP5-OP5T",
+    "repository": "whoknowswhoiam/weebmsm8998-pie",
     "target_path": "kernel/oneplus/msm8998",
     "branch": "pie"
   },
